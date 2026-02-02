@@ -102,7 +102,7 @@ export default function TrainingCalendar() {
                 <section className="relative h-[80vh] flex items-center justify-center overflow-hidden bg-black text-white">
                     <div className="absolute inset-0 z-0">
                         <img
-                            src="/carousel_3.jpg"
+                            src="/gym-plans.png"
                             alt="Training Calendar"
                             className="w-full h-full object-cover opacity-50"
                         />

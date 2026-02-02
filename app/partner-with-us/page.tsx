@@ -109,7 +109,7 @@ export default function PartnerWithUs() {
                 <section className="relative h-[80vh] flex items-center justify-center overflow-hidden bg-black text-white">
                     <div className="absolute inset-0 z-0">
                         <img
-                            src="/carousel_1.jpg"
+                            src="/gym-hero.png"
                             alt="Gym Partnership"
                             className="w-full h-full object-cover opacity-50"
                         />
@@ -187,7 +187,7 @@ export default function PartnerWithUs() {
                         className="absolute inset-0 z-0 h-[140%] top-[-20%]"
                     >
                         <img
-                            src="/carousel_3.jpg"
+                            src="/gym-plans.png"
                             alt="Gym Background"
                             className="w-full h-full object-cover opacity-30 grayscale-[50%]"
                         />
@@ -277,7 +277,7 @@ export default function PartnerWithUs() {
                             <div className="lg:w-1/3 relative group">
                                 <div className="absolute -inset-4 bg-[#8a0122]/20 rounded-[1rem] blur-xl group-hover:bg-[#8a0122]/30 transition-all opacity-0 group-hover:opacity-100" />
                                 <img
-                                    src="/event-hyfitgames.jpg"
+                                    src="/exercise-program.png"
                                     alt="Hyfit Games Event"
                                     className="rounded-[1rem] relative z-10 shadow-2xl transition-all duration-700"
                                 />
